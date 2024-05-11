@@ -12,7 +12,7 @@ Made using [FlutterFlow](https://bit.ly/3Touttn)
 
 ![](readmeimages/lewka.png)
 
-2. AI Avatar Maker & Editor
+**2. AI Avatar Maker & Editor**
 
 ![](readmeimages/aiphoto.png)
 
